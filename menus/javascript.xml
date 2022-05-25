@@ -1,0 +1,13 @@
+<menu>
+    <item title="Bootcamp" page="bootcamp">
+        <item page="javascript" title="Javascript">
+            <item page="section1" />
+            <item title="Overriden title" page="section2"></item>
+            <item page="section3"></item>
+        </item>
+    </item>
+    <item page="typescript">
+        <item page="introduction"></item>
+    </item>
+    <item link="https://google.com" title="Google"></item>
+</menu>
